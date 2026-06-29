@@ -1,0 +1,40 @@
+# Visual Studio / .NET ignores
+.vs/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Flutter / Dart ignores
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+BankE-main/.dart_tool/
+BankE-main/build/
+BankE-main/.flutter-plugins
+BankE-main/.flutter-plugins-dependencies
+BankE-main/.packages
+BankE-main/.pub-cache/
+BankE-main/.pub/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Archive/Backups (large files)
+*.zip
+*.rar
+*.tar.gz
+
+# System/OS files
+.DS_Store
+Thumbs.db
